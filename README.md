@@ -2,8 +2,6 @@
 Desafio avançado do stage2- Recriando layout
 Projeto desenvolvido para explorer da rocketseat,apliquei os conceios apredidos de HTML e CSS, reforçando conceitos de Box Model e flexbox no CSS. Foi aplicado conceitos de acessibilidade e refatoração.
 
-## Figma ##
-https://www.figma.com/file/HLhrZXhXKAhywsqopFZkDf/Explorer-Copy?fuid=1093288238703195166
 
 ## DEPLOY ##
 https://recriando-layout-stage2.vercel.app/
